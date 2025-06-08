@@ -1,22 +1,55 @@
 ---
-title: 'Post 1'
-author: Tristen Tomczak
-date: '03-23-2025'
+title: "葛西臨海水族園 お台場 お出かけレポート"
+author: 外山瑠起
+date: "06-08-2025"
 image:
-    url: '/.netlify/images?url=/images/blog-post.webp'
-    alt: 'Post Thumbnail'
+  url: "public/images/li-in.png"
+  alt: "Post Thumbnail"
 ---
 
-Aenean a ex et metus finibus malesuada commodo in magna. In ut libero urna. Aenean in quam in ipsum rutrum egestas. Donec semper dignissim ante. Sed efficitur mi et sapien ultrices malesuada. Aliquam fermentum aliquam ante, eu semper mi vestibulum quis. Sed et purus metus. Pellentesque vestibulum commodo euismod. Duis a mauris accumsan lorem laoreet tempor. Mauris accumsan varius metus, in rutrum magna accumsan eget. Pellentesque at leo at sem tempor hendrerit non sit amet ante. Cras commodo augue sed magna rutrum rutrum.
+# お出かけレポート
 
-<div class="center">
-  <img class="pro-img" src="/.netlify/images?url=/images/image-1.webp" alt="First Image" width="500px" height="281" loading="lazy" decoding="async">
-</div>
+会社の先輩から葛西臨海公園の
+葛西臨海公園公園駅に到着
+休日なので人が多い！
 
-Vivamus sed faucibus lorem. Aenean a lorem convallis, ultrices nisl vitae, imperdiet elit. Duis in tristique lacus. Quisque sollicitudin dolor ac dui faucibus, ut tincidunt velit blandit. Donec tincidunt metus eros, at dignissim enim blandit ut. Cras varius tincidunt tortor ac tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed a ipsum quis nulla commodo pretium. Ut sed sem bibendum, facilisis dolor sit amet, interdum nibh. Aliquam id auctor dolor. In nulla diam, mattis quis nisl et, aliquam interdum quam. Donec lobortis ex arcu, ac pharetra ante vehicula euismod. Donec finibus faucibus felis vitae facilisis.
+昼を食べてないので食事
+つけ麺屋！
+中華そば、つけ麺舎鈴に入る
+創業チャーシューつけ麺を注文
 
-<div class="center">
-  <img class="pro-img" src="/.netlify/images?url=/images/image-2.webp" alt="Second Image" width="500px" height="281" loading="lazy" decoding="async">
-</div>
+並なのに量が多い
+大分お腹が苦しい
+大盛りにしてたら死んでた
 
-Vivamus sed faucibus lorem. Aenean a lorem convallis, ultrices nisl vitae, imperdiet elit. Duis in tristique lacus. Quisque sollicitudin dolor ac dui faucibus, ut tincidunt velit blandit. Donec tincidunt metus eros, at dignissim enim blandit ut. Cras varius tincidunt tortor ac tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed a ipsum quis nulla commodo pretium. Ut sed sem bibendum, facilisis dolor sit amet, interdum nibh. Aliquam id auctor dolor. In nulla diam, mattis quis nisl et, aliquam interdum quam. Donec lobortis ex arcu, ac pharetra ante vehicula euismod. Donec finibus faucibus felis vitae facilisis.
+東京都が運営してるおかけで安い
+葛西臨海公園にはペンギンが4種類いるらしいので楽しみ
+
+色々な生物がいるがメインではないのでなんとなく見ながら歩いていく
+
+フンボルトペンギンもいる
+フンボルトペンギンはあったかい所で活動できるのでどの水族館にも大体いる
+
+小型ペンギン(フェアリーペンギン)と初ご対面
+あまりに小さいので赤ちゃんペンギンだと思った
+可愛いので連写しまくる
+
+用は済んだのでお台場に行く
+侑ちゃんがお出迎え
+
+初ガンダムベース
+ユニコーン君がお出迎え
+
+ガンダムの曲しか流れない店内
+
+ミオリネとアスランが並んでるの面白い
+この2人仲悪そう
+
+最新作のジークアクス君が展示されてる
+
+来年発売のνガンダムPGの展示
+νガンダムは伊達じゃない！
+
+外に出るとデストロイモードユニコーン
+
+実物大νガンダムも見に行きたくなるな
