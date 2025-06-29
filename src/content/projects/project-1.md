@@ -12,7 +12,7 @@ worksImage2:
   alt: "second image of your project."
 platform: Web,Mobile
 stack: TypeScript,Go,Kotlin,Python,Blue Tooth Low Energy
-website: https://astro-milky-way.netlify.app/
+website: https://staywatch.kajilab.net/
 github: https://github.com/kajiLabTeam/stay-watch-front
 ---
 
