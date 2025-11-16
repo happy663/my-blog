@@ -12,8 +12,6 @@ worksImage2:
   alt: "second image of your project."
 platform: Web,Mobile
 stack: TypeScript,Go,Kotlin,Python,Blue Tooth Low Energy
-website: https://staywatch.kajilab.net/
-github: https://github.com/kajiLabTeam/stay-watch-front
 ---
 
 滞在ウォッチは、BLEビーコンとスマートフォンアプリを活用した在室者管理システムです。
