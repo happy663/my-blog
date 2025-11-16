@@ -2,10 +2,10 @@
 title: "滞在ウォッチ"
 description: "BLEビーコン、スマホビーコンを活用した在室管理システム"
 image:
-  url: "/public/images/staywatch-system.png"
+  url: "/images/staywatch-system.png"
   alt: "GitHub wallpaper"
 worksImage1:
-  url: "/public/images/staywatch-system.png"
+  url: "/images/staywatch-system.png"
   alt: "first image of your project."
 worksImage2:
   url: "/.netlify/images?url=/images/image-2.webp"
