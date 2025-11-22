@@ -408,10 +408,9 @@ html.light {
 
 /* Responsive images in markdown content */
 article img:not(.skills__img):not(.round-img),
-main img:not(.skills__img):not(.round-img) {
+main img:not(.skills__img):not(.round-img):not(.img_icon) {
   max-width: 100%;
   height: auto;
   display: block;
   margin: 1rem auto;
 }
-
