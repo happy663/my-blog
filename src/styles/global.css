@@ -405,3 +405,13 @@ html.light {
   margin-bottom: 0.5rem;
   font-size: 1.1rem;
 }
+
+/* Responsive images in markdown content */
+article img:not(.skills__img):not(.round-img),
+main img:not(.skills__img):not(.round-img) {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem auto;
+}
+

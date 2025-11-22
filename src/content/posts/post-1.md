@@ -15,25 +15,27 @@ image:
 並なのに量が多い
 大分お腹が苦しい
 大盛りにしてたら死んでた
-<img src="/images/0608/tukemen3.png" alt="説明文" width="200" />
+<img src="/images/0608/tukemen3.png" alt="説明文" />
 小型ペンギン(フェアリーペンギン)と初ご対面
 あまりに小さいので赤ちゃんペンギンだと思った
 可愛いので連写しまくる
-<img src="/images/0608/feary.png" alt="説明文" height="200" />
+<img src="/images/0608/feary.png" alt="説明文" />
 用は済んだのでお台場に行くと虹ヶ先の侑ちゃんがお出迎え
-<img src="/images/0608/yutyan.png" alt="説明文" height="200" />
+<img src="/images/0608/yutyan.png" alt="説明文" />
 初ガンダムベース
 ユニコーン君がお出迎え
-<img src="/images/0608/unicon-god.png" alt="説明文" height="200" />
+<img src="/images/0608/unicon-god.png" alt="説明文" />
 ガンダムの曲しか流れない店内
 ミオリネとアスランが並んでるの面白い
 この2人仲悪そう
-<img src="/images/0608/asuran.png" alt="説明文" height="200" />
+<img src="/images/0608/asuran.png" alt="説明文" />
 最新作のジークアクス君が展示されてる
-<img src="/images/0608/gx.png" alt="説明文" height="200" />
+<img src="/images/0608/gx.png" alt="説明文" />
 来年発売のνガンダムPGの展示
 νガンダムは伊達じゃない！
-<img src="/images/0608/new-gundom.png" alt="説明文" height="200" />
+<img src="/images/0608/new-gundom.png" alt="説明文" />
 外に出るとデストロイモードユニコーン
-<img src="/images/0608/unicon.png" alt="説明文" height="200" />
+<img src="/images/0608/unicon.png" alt="説明文" />
 実物大νガンダムも見に行きたくなるな
+
+
